@@ -4,5 +4,3 @@ file added to master
 
 
 let's see if this comment is deleted with checkout
-
-Now change again, will revert to it's previous version
