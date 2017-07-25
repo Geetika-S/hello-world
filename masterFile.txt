@@ -1,5 +1,6 @@
-
-
 text to checkk revert
 
 file added to master
+
+
+let's see if this comment is deleted with checkout
